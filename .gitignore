@@ -1,4 +1,10 @@
+
 # macOS system files
 .DS_Store
+
+# Jupyter Notebook checkpoints (root + nested)
 .ipynb_checkpoints/
-.obsidian/
+**/.ipynb_checkpoints/
+
+# Obsidian workspace files
+.obsidian//
